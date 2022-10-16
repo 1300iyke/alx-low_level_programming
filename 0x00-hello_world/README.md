@@ -4,3 +4,4 @@
 3- It compiles a C file and creates an executable file
 4- Writing a C program followed by a new line
 5- Also writing a C program followed by a new line
+6- Writing a C program that prints the size of various types on the computer
